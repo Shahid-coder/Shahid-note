@@ -22,7 +22,7 @@ $ cd Shahid-note
 
 ```
 we have deployed this project online on github-pages. You can use it online [here](shahid-coder.github.io/Shahid-note)
-\
+
 ## Contribution guidelines
 If you want to contribute to Shahid-note, be sure to review the
 [contribution guidelines](CONTRIBUTING.md).
