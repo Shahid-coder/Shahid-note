@@ -21,7 +21,7 @@ $ git clone https://github.com/Shahid-coder/Shahid-note.git
 $ cd Shahid-note
 
 ```
-we have deployed this project online on github-pages. You can use it online [here](shahid-coder.github.io/Shahid-note)
+we have deployed this project online on github-pages. You can use it online [here](https://shahid-coder.github.io/Shahid-note)
 
 ## Contribution guidelines
 If you want to contribute to Shahid-note, be sure to review the
