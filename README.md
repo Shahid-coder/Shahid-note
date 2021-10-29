@@ -16,10 +16,10 @@ Shahid-note was originally developed by shahid
 > For Git bash
 #### To clone this type the following command in your terminal .
 ```
-$ git clone https://github.com/Shahid-coder/Shahid-note.git
-
-$ cd Shahid-note
-
+git clone https://github.com/Shahid-coder/Shahid-note.git
+```
+```
+cd Shahid-note
 ```
 we have deployed this project online on github-pages. You can use it online [here](https://shahid-coder.github.io/Shahid-note)
 
